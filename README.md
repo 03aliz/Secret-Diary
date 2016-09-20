@@ -1,5 +1,6 @@
 # Secret-Diary
 If you would like to read the main HTML and PHP file then please look at index.php.
+
 A project which uses HTML,CSS,jQuery, PHP and MySQL. This project also uses forms with Bootstrap styling.
 A user can choose to either sign up or login to their account. Once the user logs in, they are taken to a page with diary, where the user
 can type whatever they desire. The diary uses an AJAX request to save the text automatically as the user is typing in thier message. The 
